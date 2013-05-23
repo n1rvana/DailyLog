@@ -22,6 +22,6 @@ To use:
   $ log "Today I wrote module X"
 
 I hope nobody considers this an abuse of the github tracking system. I've seen people
-check in repositories with automated post-dated commits to spel out their name in the 
-grid and stuff like that.  This is much more in the spirit, as you have to run it 
-every day.
+check in repositories with automated post-dated commits to spell out their name in the 
+grid and stuff like that.  This is much more in the spirit of the tracker, as you have
+to run it every day.
